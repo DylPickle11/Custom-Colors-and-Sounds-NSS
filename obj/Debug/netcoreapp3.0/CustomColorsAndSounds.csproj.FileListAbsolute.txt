@@ -1,0 +1,11 @@
+/Users/dylpickle/Workspace/csharp/exercises/CustomColorsAndSounds/obj/Debug/netcoreapp3.0/CustomColorsAndSounds.csprojAssemblyReference.cache
+/Users/dylpickle/Workspace/csharp/exercises/CustomColorsAndSounds/obj/Debug/netcoreapp3.0/CustomColorsAndSounds.AssemblyInfoInputs.cache
+/Users/dylpickle/Workspace/csharp/exercises/CustomColorsAndSounds/obj/Debug/netcoreapp3.0/CustomColorsAndSounds.AssemblyInfo.cs
+/Users/dylpickle/Workspace/csharp/exercises/CustomColorsAndSounds/bin/Debug/netcoreapp3.0/CustomColorsAndSounds
+/Users/dylpickle/Workspace/csharp/exercises/CustomColorsAndSounds/bin/Debug/netcoreapp3.0/CustomColorsAndSounds.deps.json
+/Users/dylpickle/Workspace/csharp/exercises/CustomColorsAndSounds/bin/Debug/netcoreapp3.0/CustomColorsAndSounds.runtimeconfig.json
+/Users/dylpickle/Workspace/csharp/exercises/CustomColorsAndSounds/bin/Debug/netcoreapp3.0/CustomColorsAndSounds.runtimeconfig.dev.json
+/Users/dylpickle/Workspace/csharp/exercises/CustomColorsAndSounds/bin/Debug/netcoreapp3.0/CustomColorsAndSounds.dll
+/Users/dylpickle/Workspace/csharp/exercises/CustomColorsAndSounds/bin/Debug/netcoreapp3.0/CustomColorsAndSounds.pdb
+/Users/dylpickle/Workspace/csharp/exercises/CustomColorsAndSounds/obj/Debug/netcoreapp3.0/CustomColorsAndSounds.dll
+/Users/dylpickle/Workspace/csharp/exercises/CustomColorsAndSounds/obj/Debug/netcoreapp3.0/CustomColorsAndSounds.pdb
